@@ -1,0 +1,10 @@
+
+# Guide for all web crawlers
+User-agent: *
+Allow: /
+
+# Disallow specific paths if any were private
+# Disallow: /private/
+
+# Sitemap location
+Sitemap: https://doodax.com/sitemap.xml
