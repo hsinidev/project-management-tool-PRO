@@ -1,5 +1,5 @@
 
-# doodax: The Future of Project Management
+# The Future of Project Management
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 ![React](https://img.shields.io/badge/React-18.2.0-61DAFB?logo=react)
@@ -8,7 +8,7 @@
 
 **doodax** is a high-performance, modern project management interface designed to replicate the sophistication of enterprise-grade tools like Jira. Built with a focus on speed, SEO, and user experience, it features a centralized workflow management system, integrated AI tools, and a fully responsive design.
 
-### 🚀 <a href="https://doodax.com" target="_blank">LIVE DEMO</a>
+### 🚀 <a href="https://doodax.com/tools/project-management-tool/index.html" target="_blank">LIVE DEMO</a>
 
 ---
 
