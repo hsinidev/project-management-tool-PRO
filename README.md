@@ -1,18 +1,22 @@
 <div align="center">
-# 🚀 Project Management Tool Pro
-### *Modern, High-Performance JavaScript Solution & Developer Suite*
 
-<p align="center">
-  [![Architect](https://img.shields.io/badge/Architect-Hsini%20Mohamed-0055ff?style=for-the-badge&logo=github&logoColor=white)](https://hsini.dev)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-hsini.dev-00c853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hsini.dev)
-  [![Language](https://img.shields.io/badge/Language-TypeScript-3178C6?style=for-the-badge)](https://github.com/hsinidev)
-  [![Framework](https://img.shields.io/badge/Framework-JavaScript-6366f1?style=for-the-badge)](https://github.com/hsinidev)
-  [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Project%20Management%20Tool%20&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" style="max-width: 100%; border-radius: 12px; margin-bottom: 20px;" alt="Project Management Tool Pro Header Banner" />
+
+  <h1>🚀 Project Management Tool Pro</h1>
+  <p><em>Modern, High-Performance JavaScript Solution & Developer Suite</em></p>
+
+  <p align="center">
+    <a href="https://hsini.dev"><img src="https://img.shields.io/badge/Architect-Hsini%20Mohamed-0055ff?style=for-the-badge&logo=github&logoColor=white" alt="Architect: Hsini Mohamed" /></a>
+    <a href="https://hsini.dev"><img src="https://img.shields.io/badge/Portfolio-hsini.dev-00c853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio: hsini.dev" /></a>
+    <a href="https://github.com/hsinidev"><img src="https://img.shields.io/badge/Language-TypeScript-3178C6?style=for-the-badge" alt="Language: TypeScript" /></a>
+    <a href="https://github.com/hsinidev"><img src="https://img.shields.io/badge/Framework-JavaScript-6366f1?style=for-the-badge" alt="Framework: JavaScript" /></a>
+    <a href="https://github.com/hsinidev/project-management-tool-PRO"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License: MIT" /></a>
+  </p>
 
 </div>
 
 ---
+
 ## 🌟 Executive Overview
 
 **Project Management Tool Pro** is a production-grade **TypeScript** platform engineered for high reliability, clean architectural separation, and frictionless developer workflow.
@@ -25,6 +29,7 @@
 - **Production Ready**: Built-in error resilience, validation, and structured logging.
 
 ---
+
 ## 🏗️ Architecture & Technology Stack
 
 - **Primary Language**: `TypeScript`
@@ -32,82 +37,6 @@
 - **Design Pattern**: Modular Clean Architecture / Domain-Driven Design
 - **License**: MIT Open Source Attribution
 
-## 📖 Deep-Dive Technical Documentation
-
-# The Future of Project Management
-
-
-**doodax** is a high-performance, modern project management interface designed to replicate the sophistication of enterprise-grade tools like Jira. Built with a focus on speed, SEO, and user experience, it features a centralized workflow management system, integrated AI tools, and a fully responsive design.
-
-### 🚀 <a href="https://doodax.com/tools/project-management-tool/index.html" target="_blank">LIVE DEMO</a>
-
----
-
-## ✨ Key Features
-
-- **Modern & Friendly UI**: A visually stunning interface featuring soft gradients, glassmorphism effects, and a comfortable, spacious layout designed to reduce cognitive load.
-- **Centralized Workspace**: Everything your team needs—boards, timelines, and reports—accessible from a single, intuitive dashboard.
-- **AI-Powered Social Rewriter**: An integrated tool utilizing Ollama to rewrite social media content with adjustable tones and platform-specific optimizations.
-- **SEO-Optimized**: Built from the ground up for search engines, featuring semantic HTML, JSON-LD structured data, and a high-performance architecture.
-- **Immersive Content Experience**: Features a unique, animated "Galaxy" article view that transforms standard blog content into an engaging visual experience.
-
-## 🛠️ Technology Stack
-
-- **Frontend**: React 18, TypeScript, Vite
-- **Styling**: Tailwind CSS (Utility-first framework)
-- **Icons**: Custom SVG Icons
-- **Performance**: Optimized for Core Web Vitals
-
-## 📂 Project Structure
-
-```bash
-/
-├── public/
-│   ├── favicon.svg        # Brand Icon
-│   ├── robots.txt         # Crawler directives
-│   └── sitemap.xml        # SEO Site map
-├── src/
-│   ├── components/        # Component Library
-│   │   ├── Header.tsx     # Navigation & Branding
-│   │   ├── Footer.tsx     # Links & Pop-ups
-│   │   ├── SeoArticle.tsx # Galaxy-themed Long-form Content
-│   │   ├── Modal.tsx      # Reusable Pop-up logic
-│   │   └── ...
-│   ├── App.tsx            # Main Application Logic
-│   └── index.tsx          # Entry Point
-├── README.md              # Documentation
-└── ...
-```
-
-## 🚀 Getting Started
-
-1.  **Clone the repository:**
-    ```bash
-    git clone https://github.com/hsinidev/doodax.git
-    cd doodax
-    ```
-
-2.  **Install dependencies:**
-    ```bash
-    npm install
-    ```
-
-3.  **Run the development server:**
-    ```bash
-    npm run dev
-    ```
-
-## 🤝 Contributing
-
-Contributions are welcome! Please fork this repository and submit a pull request.
-
-
-
----
-
-### Powered by [HSINI MOHAMED](https://github.com/hsinidev)
-
----
 ## 🚀 Quick Start & Installation
 
 ### 1. Clone the Repository
